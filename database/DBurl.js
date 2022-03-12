@@ -1,0 +1,1 @@
+export const DBurl = 'mongodb+srv://thankz:thanhduy170320@cluster0.kmhfv.mongodb.net/thankz?retryWrites=true&w=majority'
